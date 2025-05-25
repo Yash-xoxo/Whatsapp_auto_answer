@@ -3,7 +3,7 @@
 # Python 
 
 
-The script auto answer the whatsapp new message.
+## The script auto answer the whatsapp new message.
 ---
 ## Warnings
 WhatsApp may block or ban your number if automation is detected.
@@ -19,3 +19,6 @@ Use WhatsApp Business with the Cloud API (Meta).
 
 This is reliable, supported, and scalable — but requires registration and approval.
 
+```
+pip install selenium
+```
