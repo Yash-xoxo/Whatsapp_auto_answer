@@ -1,7 +1,9 @@
 # Whatsapp_auto_answer
 ------
-# Python 
-
+# Python Lib
+```
+pip install selenium
+```
 
 ## The script auto answer the whatsapp new message.
 ---
@@ -19,6 +21,4 @@ Use WhatsApp Business with the Cloud API (Meta).
 
 This is reliable, supported, and scalable — but requires registration and approval.
 
-```
-pip install selenium
-```
+
